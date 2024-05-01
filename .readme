@@ -1,0 +1,4 @@
+Команды для пакетов:
+```
+npm i -D webpack@5.91.0 webpack-cli@5.1.4 webpack-dev-server@5.0.4 html-webpack-plugin@5.6.0 ts-loader@9.5.0 typescript@5.2.2 @types/node@20.8.3 @types/webpack@5.28.3 ts-node@10.9.1
+```
